@@ -33,7 +33,8 @@ Project Structure
 - src/App.css: Stylesheet for the landing page.
 - public/index.html: Main HTML file.
   
-file:///home/prasad/Pictures/Screenshots/Screenshot%20from%202024-01-28%2016-11-04.png
 
 
 
+
+![Screenshot from 2024-01-28 16-11-04](https://github.com/Prasad103/Genotek-landing-page/assets/119681991/738718c8-325b-4348-8fa4-25618d8ec322)
